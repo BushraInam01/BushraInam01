@@ -20,8 +20,8 @@ Passionate about Python • Backend Development • Problem Solving
 
 ---
 ## 👩‍💻 About Me
-🎓 Information Technology Graduate
-🐍 Python Developer
+🎓 Information Technology Graduate<br>
+🐍 Python Developer<br>
 💻 Passionate about building practical Python applications
 
 🌱 Currently learning
