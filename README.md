@@ -31,16 +31,6 @@ Passionate about Python • Backend Development • Problem Solving
 🔹 Flask<br>
 🔹 MySQL<br><br>  
 
----
-# 💻 <b>Languages and Tools</b>
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode"/>
-
-</p>
-
----
 ## 🌐 <b>Connect with me</b>
 
 <p align="left">
@@ -50,14 +40,19 @@ Passionate about Python • Backend Development • Problem Solving
 </a>
 
 <a href="https://www.instagram.com/codewithbushra._/">
-
-🎯 <b>Goal</b>
-Become a professional Python Backend Developer and build scalable applications.
 <img src="https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/bushra-inam-637235422/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
+</p>
+
+# 💻 <b>Languages and Tools</b>
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode"/>
 
 </p>
