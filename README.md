@@ -1,7 +1,3 @@
-<!-- =============================== -->
-<!--      BUSHRA INAM GITHUB README -->
-<!-- =============================== -->
-
 <h1 align="center">
 Hi 👋, I'm Bushra Inam
 </h1>
@@ -19,7 +15,7 @@ Passionate about Python • Backend Development • Problem Solving
 </p>
 
 ---
-## 👩‍💻 About Me
+### About Me
 🎓 Information Technology Graduate<br>
 🐍 Python Developer<br>
 💻 Passionate about building practical Python applications
