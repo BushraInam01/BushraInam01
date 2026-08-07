@@ -24,22 +24,22 @@ Passionate about Python • Backend Development • Problem Solving
 🐍 Python Developer<br>
 💻 Passionate about building practical Python applications
 
-🌱 Currently learning
+🌱 <b> Currently learning</b>
 - Python
 - Object-Oriented Programming (OOP)
 - Data Structures & Algorithms
 - Flask
 - MySQL
   
-🚀 Currently Building
+🚀 <b>Currently Building</b>
 - 🏡 Real Estate CRM
 - 🤖 Password Generator 
 
-🎯 Goal
+🎯 <b>Goal</b>
 Become a professional Python Backend Developer and build scalable applications.
 
 ---
-# 💻 Languages and Tools
+# 💻 <b>Languages and Tools</b>
 
 <p align="left">
 
@@ -48,7 +48,7 @@ Become a professional Python Backend Developer and build scalable applications.
 </p>
 
 ---
-## 🌐 Connect with me
+## 🌐 <b>Connect with me</b>
 
 <p align="left">
 
