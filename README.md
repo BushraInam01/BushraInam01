@@ -11,7 +11,7 @@ Passionate about Python • Backend Development • Problem Solving
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Python+Developer;Building+Real+World+Projects;Learning+Every+Day;Open+to+Internship+Opportunities" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Python+Developer;Building+Real+World+Projects;Learning+Every+Day" />
 </p>
 
 ---
@@ -22,10 +22,10 @@ Passionate about Python • Backend Development • Problem Solving
 
 **🌱 Currently Learning**<br>
 🔹 Python<br>
-🔹 Object-Oriented Programming (OOP)<br>
-🔹 Data Structures & Algorithms<br>
-🔹 Flask<br>
-🔹 MySQL<br>  
+🔹 OOP<br>
+🔹 APIs<br>
+🔹 SQL<br>
+🔹 Git & GitHub<br>  
 
 ### Connect with me: 
 
