@@ -24,7 +24,8 @@ Passionate about Python • Backend Development • Problem Solving
 🐍 Python Developer<br>
 💻 Passionate about building practical Python applications
 
-🌱 <b> Currently learning</b> - Python
+🌱 <b> Currently learning</b>
+- Python
 - Object-Oriented Programming (OOP)
 - Data Structures & Algorithms
 - Flask
