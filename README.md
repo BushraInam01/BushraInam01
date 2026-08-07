@@ -19,7 +19,6 @@ Passionate about Python • Backend Development • Problem Solving
 </p>
 
 ---
-
 ## 👩‍💻 About Me
 🎓 Information Technology Graduate
 🐍 Python Developer
@@ -40,7 +39,6 @@ Passionate about Python • Backend Development • Problem Solving
 Become a professional Python Backend Developer and build scalable applications.
 
 ---
-
 # 💻 Languages and Tools
 
 <p align="left">
@@ -50,7 +48,6 @@ Become a professional Python Backend Developer and build scalable applications.
 </p>
 
 ---
-
 ## 🌐 Connect with Me
 
 <p align="left">
@@ -70,7 +67,6 @@ Become a professional Python Backend Developer and build scalable applications.
 </p>
 
 ---
-
 # 💡 Currently Learning
 
 ✅ Python
@@ -86,27 +82,6 @@ Become a professional Python Backend Developer and build scalable applications.
 ✅ MySQL
 
 ---
-
-# 📈 Profile Views
-
-<p align="left">
-
-<img src="https://komarev.com/ghpvc/?username=BushraInam01&label=Profile+Views&color=3B82F6&style=for-the-badge"/>
-
-</p>
-
----
-
-# ✨ Quote
-
-<p align="center">
-
-> "Consistency is the key to becoming a better developer."
-
-</p>
-
----
-
 <p align="center">
 
 ⭐ Thanks for visiting my GitHub Profile!
