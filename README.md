@@ -29,8 +29,7 @@ Passionate about Python • Backend Development • Problem Solving
 🔹 Object-Oriented Programming (OOP)<br>
 🔹 Data Structures & Algorithms<br>
 🔹 Flask<br>
-🔹 MySQL<br><br>
-  
+🔹 MySQL<br><br>  
 **🚀 Currently Building**<br>
 🏡 Real Estate CRM<br>
 🔐 Password Generator
