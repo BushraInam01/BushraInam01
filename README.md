@@ -31,11 +31,9 @@ Passionate about Python • Backend Development • Problem Solving
 🔹 Flask<br>
 🔹 MySQL<br><br>
   
-🚀 <b>Currently Building</b>
-<ul>
-  <li>🏡 Real Estate CRM</li>
-  <li>🔐 Password Generator</li>
-</ul>
+**🚀 Currently Building**<br>
+🏡 Real Estate CRM<br>
+🔐 Password Generator
 
 🎯 <b>Goal</b>
 Become a professional Python Backend Developer and build scalable applications.
