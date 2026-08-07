@@ -51,8 +51,6 @@ Become a professional Python Backend Developer and build scalable applications.
 
 ---
 
-# 🌐 Connect With Me
-
 ## 🌐 Connect with Me
 
 <p align="center">
