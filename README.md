@@ -31,7 +31,7 @@ Passionate about Python • Backend Development • Problem Solving
 🔹 Flask<br>
 🔹 MySQL<br>  
 
-<h2> Connect with me</h2>
+<b>🔗 Connect with me</b>
 
 <p align="left">
 
@@ -49,7 +49,9 @@ Passionate about Python • Backend Development • Problem Solving
 
 </p>
 
-<h2> Languages and Tools</h2>
+<br>
+
+<b>💻 Languages and Tools</b>
 
 <p align="left">
 
