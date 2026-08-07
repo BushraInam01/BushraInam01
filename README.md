@@ -15,7 +15,7 @@ Passionate about Python • Backend Development • Problem Solving
 </p>
 
 ---
-**🌱 Currently Learning**<br>
+### Currently Learning <br>
 🔹 Python<br>
 🔹 OOP<br>
 🔹 APIs<br>
