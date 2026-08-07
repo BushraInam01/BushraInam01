@@ -29,9 +29,9 @@ Passionate about Python • Backend Development • Problem Solving
 🔹 Object-Oriented Programming (OOP)<br>
 🔹 Data Structures & Algorithms<br>
 🔹 Flask<br>
-🔹 MySQL<br><br>  
+🔹 MySQL<br>  
 
-## <b>Connect with me</b>
+<h2> Connect with me</h2>
 
 <p align="left">
 
@@ -49,7 +49,7 @@ Passionate about Python • Backend Development • Problem Solving
 
 </p>
 
-## <b>Languages and Tools</b>
+<h2> Languages and Tools</h2>
 
 <p align="left">
 
