@@ -65,25 +65,3 @@ Become a professional Python Backend Developer and build scalable applications.
 </a>
 
 </p>
-
----
-# 💡 Currently Learning
-
-✅ Python
-
-✅ Object-Oriented Programming
-
-✅ Data Structures
-
-✅ Algorithms
-
-✅ Flask
-
-✅ MySQL
-
----
-<p align="center">
-
-⭐ Thanks for visiting my GitHub Profile!
-
-</p>
