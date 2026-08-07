@@ -30,12 +30,6 @@ Passionate about Python • Backend Development • Problem Solving
 🔹 Data Structures & Algorithms<br>
 🔹 Flask<br>
 🔹 MySQL<br><br>  
-**🚀 Currently Building**<br>
-🏡 Real Estate CRM<br>
-🔐 Password Generator
-
-🎯 <b>Goal</b>
-Become a professional Python Backend Developer and build scalable applications.
 
 ---
 # 💻 <b>Languages and Tools</b>
@@ -56,6 +50,9 @@ Become a professional Python Backend Developer and build scalable applications.
 </a>
 
 <a href="https://www.instagram.com/codewithbushra._/">
+
+🎯 <b>Goal</b>
+Become a professional Python Backend Developer and build scalable applications.
 <img src="https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
