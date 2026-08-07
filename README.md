@@ -25,6 +25,7 @@ Passionate about Python • Backend Development • Problem Solving
 💻 Passionate about building practical Python applications
 
 🌱 <b> Currently learning</b>
+
 <ul>
   <li>Python</li>
   <li>Object-Oriented Programming (OOP)</li>
@@ -34,6 +35,7 @@ Passionate about Python • Backend Development • Problem Solving
 </ul>
   
 🚀 <b>Currently Building</b>
+
 <ul>
   <li>🏡 Real Estate CRM</li>
   <li>🔐 Password Generator</li>
