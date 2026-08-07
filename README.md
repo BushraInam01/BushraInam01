@@ -21,113 +21,52 @@ Passionate about Python • Backend Development • Problem Solving
 ---
 
 ## 👩‍💻 About Me
-
 🎓 Information Technology Graduate
-
 🐍 Python Developer
-
 💻 Passionate about building practical Python applications
 
 🌱 Currently learning
-
 - Python
 - Object-Oriented Programming (OOP)
 - Data Structures & Algorithms
 - Flask
 - MySQL
-
+  
 🚀 Currently Building
-
 - 🏡 Real Estate CRM
-- 💧 Water Reminder Desktop App
-- 🤖 Python Automation Projects
+- 🤖 Password Generator 
 
 🎯 Goal
-
 Become a professional Python Backend Developer and build scalable applications.
 
 ---
 
-# 💻 Tech Stack
+# 💻 Languages and Tools
 
-<p align="center">
+<p align="left">
 
-<img src="https://skillicons.dev/icons?i=python,flask,mysql,git,github,vscode,html,css"/>
-
-</p>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=BushraInam01&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BushraInam01&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode"/>
 
 </p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=BushraInam01&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=BushraInam01&theme=tokyonight&no-frame=true&margin-w=10"/>
-
-</p>
-
----
-
-# 📌 Featured Projects
-
-### 🏡 Real Estate CRM
-
-Python • Flask • MySQL
-
-A complete Real Estate CRM system following Clean Architecture principles.
-
----
-
-### 💧 Water Reminder Desktop App
-
-Python • CustomTkinter • SQLite
-
-Desktop reminder application with notifications and mascot support.
-
----
-
-### 🤖 Python Automation
-
-Task automation scripts using Python.
 
 ---
 
 # 🌐 Connect With Me
 
+## 🌐 Connect with Me
+
 <p align="center">
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://www.linkedin.com/in/bushra-inam-637235422/style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://github.com/BushraInam01" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="YOUR_INSTAGRAM_URL">
-<img src="https://www.instagram.com/codewithbushra._/?style=for-the-badge&logo=instagram&logoColor=white"/>
+<a href="https://www.instagram.com/codewithbushra._/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://www.linkedin.com/in/bushra-inam-637235422/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 </p>
